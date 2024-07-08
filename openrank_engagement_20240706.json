@@ -1,0 +1,804 @@
+{
+  "result": [
+    {
+      "fid": 3,
+      "fname": "danromero.eth",
+      "username": "dwr.eth",
+      "rank": 1,
+      "score": 0.018852410838007927,
+      "percentile": 100
+    },
+    {
+      "fid": 3,
+      "fname": "dwr",
+      "username": "dwr.eth",
+      "rank": 1,
+      "score": 0.018852410838007927,
+      "percentile": 100
+    },
+    {
+      "fid": 3,
+      "fname": "dwr.eth",
+      "username": "dwr.eth",
+      "rank": 1,
+      "score": 0.018852410838007927,
+      "percentile": 100
+    },
+    {
+      "fid": 12142,
+      "fname": "base",
+      "username": "base",
+      "rank": 2,
+      "score": 0.01052696444094181,
+      "percentile": 99
+    },
+    {
+      "fid": 2,
+      "fname": "v",
+      "username": "v",
+      "rank": 3,
+      "score": 0.010085074231028557,
+      "percentile": 99
+    },
+    {
+      "fid": 2,
+      "fname": "varunsrin.eth",
+      "username": "v",
+      "rank": 3,
+      "score": 0.010085074231028557,
+      "percentile": 99
+    },
+    {
+      "fid": 99,
+      "fname": "jessepollak",
+      "username": "jessepollak",
+      "rank": 4,
+      "score": 0.01002084743231535,
+      "percentile": 99
+    },
+    {
+      "fid": 239,
+      "fname": "ted",
+      "username": "ted",
+      "rank": 5,
+      "score": 0.009690717794001102,
+      "percentile": 99
+    },
+    {
+      "fid": 528,
+      "fname": "0xen",
+      "username": "0xen",
+      "rank": 6,
+      "score": 0.009315438568592072,
+      "percentile": 99
+    },
+    {
+      "fid": 1110,
+      "fname": "perl",
+      "username": "perl",
+      "rank": 7,
+      "score": 0.009271246381103992,
+      "percentile": 99
+    },
+    {
+      "fid": 617,
+      "fname": "cameron",
+      "username": "cameron",
+      "rank": 8,
+      "score": 0.009263184852898121,
+      "percentile": 99
+    },
+    {
+      "fid": 539,
+      "fname": "ace",
+      "username": "ace",
+      "rank": 9,
+      "score": 0.009231289848685265,
+      "percentile": 99
+    },
+    {
+      "fid": 576,
+      "fname": "nonlinear.eth",
+      "username": "nonlinear.eth",
+      "rank": 10,
+      "score": 0.009131294675171375,
+      "percentile": 99
+    },
+    {
+      "fid": 576,
+      "fname": "nonlinear",
+      "username": "nonlinear.eth",
+      "rank": 10,
+      "score": 0.009131294675171375,
+      "percentile": 99
+    },
+    {
+      "fid": 2904,
+      "fname": "wake",
+      "username": "wake",
+      "rank": 11,
+      "score": 0.009048277512192726,
+      "percentile": 99
+    },
+    {
+      "fid": 2904,
+      "fname": "wakeupremember.eth",
+      "username": "wake",
+      "rank": 11,
+      "score": 0.009048277512192726,
+      "percentile": 99
+    },
+    {
+      "fid": 7143,
+      "fname": "six",
+      "username": "six",
+      "rank": 12,
+      "score": 0.009032866917550564,
+      "percentile": 99
+    },
+    {
+      "fid": 472,
+      "fname": "ccarella.eth",
+      "username": "ccarella.eth",
+      "rank": 13,
+      "score": 0.008921829052269459,
+      "percentile": 99
+    },
+    {
+      "fid": 472,
+      "fname": "ccarella",
+      "username": "ccarella.eth",
+      "rank": 13,
+      "score": 0.008921829052269459,
+      "percentile": 99
+    },
+    {
+      "fid": 680,
+      "fname": "wojtek.eth",
+      "username": "woj.eth",
+      "rank": 14,
+      "score": 0.00851068738847971,
+      "percentile": 99
+    },
+    {
+      "fid": 680,
+      "fname": "woj",
+      "username": "woj.eth",
+      "rank": 14,
+      "score": 0.00851068738847971,
+      "percentile": 99
+    },
+    {
+      "fid": 680,
+      "fname": "woj.eth",
+      "username": "woj.eth",
+      "rank": 14,
+      "score": 0.00851068738847971,
+      "percentile": 99
+    },
+    {
+      "fid": 129,
+      "fname": "phil",
+      "username": "phil",
+      "rank": 15,
+      "score": 0.008417381905019283,
+      "percentile": 99
+    },
+    {
+      "fid": 5650,
+      "fname": "vbuterin",
+      "username": "vitalik.eth",
+      "rank": 16,
+      "score": 0.008393834345042706,
+      "percentile": 99
+    },
+    {
+      "fid": 5650,
+      "fname": "vitalik.eth",
+      "username": "vitalik.eth",
+      "rank": 16,
+      "score": 0.008393834345042706,
+      "percentile": 99
+    },
+    {
+      "fid": 7251,
+      "fname": "dick.eth",
+      "username": "ciniz",
+      "rank": 17,
+      "score": 0.008388247340917587,
+      "percentile": 99
+    },
+    {
+      "fid": 7251,
+      "fname": "cnz.eth",
+      "username": "ciniz",
+      "rank": 17,
+      "score": 0.008388247340917587,
+      "percentile": 99
+    },
+    {
+      "fid": 7251,
+      "fname": "ciniz",
+      "username": "ciniz",
+      "rank": 17,
+      "score": 0.008388247340917587,
+      "percentile": 99
+    },
+    {
+      "fid": 7251,
+      "fname": "ciniz.eth",
+      "username": "ciniz",
+      "rank": 17,
+      "score": 0.008388247340917587,
+      "percentile": 99
+    },
+    {
+      "fid": 8,
+      "fname": "jacob",
+      "username": "jacob",
+      "rank": 18,
+      "score": 0.008366488851606846,
+      "percentile": 99
+    },
+    {
+      "fid": 4407,
+      "fname": "keccers.eth",
+      "username": "keccers.eth",
+      "rank": 19,
+      "score": 0.008356116712093353,
+      "percentile": 99
+    },
+    {
+      "fid": 4407,
+      "fname": "keccers",
+      "username": "keccers.eth",
+      "rank": 19,
+      "score": 0.008356116712093353,
+      "percentile": 99
+    },
+    {
+      "fid": 3621,
+      "fname": "stupidideas.eth",
+      "username": "horsefacts.eth",
+      "rank": 20,
+      "score": 0.008318965323269367,
+      "percentile": 99
+    },
+    {
+      "fid": 3621,
+      "fname": "portlymerchant.eth",
+      "username": "horsefacts.eth",
+      "rank": 20,
+      "score": 0.008318965323269367,
+      "percentile": 99
+    },
+    {
+      "fid": 3621,
+      "fname": "horsefacts.eth",
+      "username": "horsefacts.eth",
+      "rank": 20,
+      "score": 0.008318965323269367,
+      "percentile": 99
+    },
+    {
+      "fid": 3621,
+      "fname": "summoningcircle.eth",
+      "username": "horsefacts.eth",
+      "rank": 20,
+      "score": 0.008318965323269367,
+      "percentile": 99
+    },
+    {
+      "fid": 3621,
+      "fname": "horsefacts",
+      "username": "horsefacts.eth",
+      "rank": 20,
+      "score": 0.008318965323269367,
+      "percentile": 99
+    },
+    {
+      "fid": 206,
+      "fname": "coopahtroopa",
+      "username": "coopahtroopa.eth",
+      "rank": 21,
+      "score": 0.008286712691187859,
+      "percentile": 99
+    },
+    {
+      "fid": 206,
+      "fname": "coopahtroopa.eth",
+      "username": "coopahtroopa.eth",
+      "rank": 21,
+      "score": 0.008286712691187859,
+      "percentile": 99
+    },
+    {
+      "fid": 15983,
+      "fname": "jacek",
+      "username": "jacek",
+      "rank": 22,
+      "score": 0.008272399194538593,
+      "percentile": 99
+    },
+    {
+      "fid": 347,
+      "fname": "greg",
+      "username": "greg",
+      "rank": 23,
+      "score": 0.0082375667989254,
+      "percentile": 99
+    },
+    {
+      "fid": 347,
+      "fname": "gregskril.eth",
+      "username": "greg",
+      "rank": 23,
+      "score": 0.0082375667989254,
+      "percentile": 99
+    },
+    {
+      "fid": 1214,
+      "fname": "df",
+      "username": "df",
+      "rank": 24,
+      "score": 0.008191722445189953,
+      "percentile": 99
+    },
+    {
+      "fid": 1356,
+      "fname": "farcasteradmin.eth",
+      "username": "farcasteradmin.eth",
+      "rank": 25,
+      "score": 0.008163787424564362,
+      "percentile": 99
+    },
+    {
+      "fid": 1356,
+      "fname": "borodutch",
+      "username": "farcasteradmin.eth",
+      "rank": 25,
+      "score": 0.008163787424564362,
+      "percentile": 99
+    },
+    {
+      "fid": 1285,
+      "fname": "benersing",
+      "username": "benersing",
+      "rank": 26,
+      "score": 0.008128741756081581,
+      "percentile": 99
+    },
+    {
+      "fid": 3642,
+      "fname": "toadyhawk",
+      "username": "toadyhawk.eth",
+      "rank": 27,
+      "score": 0.008089443668723106,
+      "percentile": 99
+    },
+    {
+      "fid": 3642,
+      "fname": "toadyhawk.eth",
+      "username": "toadyhawk.eth",
+      "rank": 27,
+      "score": 0.008089443668723106,
+      "percentile": 99
+    },
+    {
+      "fid": 1325,
+      "fname": "cassie",
+      "username": "cassie",
+      "rank": 28,
+      "score": 0.008077552542090416,
+      "percentile": 99
+    },
+    {
+      "fid": 602,
+      "fname": "jasongoldberg.eth",
+      "username": "betashop.eth",
+      "rank": 29,
+      "score": 0.0080614248290658,
+      "percentile": 99
+    },
+    {
+      "fid": 602,
+      "fname": "betashop.eth",
+      "username": "betashop.eth",
+      "rank": 29,
+      "score": 0.0080614248290658,
+      "percentile": 99
+    },
+    {
+      "fid": 602,
+      "fname": "betashop",
+      "username": "betashop.eth",
+      "rank": 29,
+      "score": 0.0080614248290658,
+      "percentile": 99
+    },
+    {
+      "fid": 13121,
+      "fname": "lght.eth",
+      "username": "lght.eth",
+      "rank": 30,
+      "score": 0.007941404357552528,
+      "percentile": 99
+    },
+    {
+      "fid": 13121,
+      "fname": "0xlght",
+      "username": "lght.eth",
+      "rank": 30,
+      "score": 0.007941404357552528,
+      "percentile": 99
+    },
+    {
+      "fid": 9135,
+      "fname": "qdau.eth",
+      "username": "kugusha.eth",
+      "rank": 31,
+      "score": 0.007928268052637577,
+      "percentile": 99
+    },
+    {
+      "fid": 9135,
+      "fname": "kugusha.eth",
+      "username": "kugusha.eth",
+      "rank": 31,
+      "score": 0.007928268052637577,
+      "percentile": 99
+    },
+    {
+      "fid": 9135,
+      "fname": "kugusha",
+      "username": "kugusha.eth",
+      "rank": 31,
+      "score": 0.007928268052637577,
+      "percentile": 99
+    },
+    {
+      "fid": 12,
+      "fname": "linda",
+      "username": "linda",
+      "rank": 32,
+      "score": 0.007916983217000961,
+      "percentile": 99
+    },
+    {
+      "fid": 1606,
+      "fname": "samantha",
+      "username": "samantha",
+      "rank": 33,
+      "score": 0.007824061438441277,
+      "percentile": 99
+    },
+    {
+      "fid": 1287,
+      "fname": "july",
+      "username": "july",
+      "rank": 34,
+      "score": 0.00781914684921503,
+      "percentile": 99
+    },
+    {
+      "fid": 534,
+      "fname": "mikedemarais",
+      "username": "mikedemarais.eth",
+      "rank": 35,
+      "score": 0.007815942168235779,
+      "percentile": 99
+    },
+    {
+      "fid": 534,
+      "fname": "mikedemarais.eth",
+      "username": "mikedemarais.eth",
+      "rank": 35,
+      "score": 0.007815942168235779,
+      "percentile": 99
+    },
+    {
+      "fid": 2433,
+      "fname": "seneca",
+      "username": "seneca",
+      "rank": 36,
+      "score": 0.007811564952135086,
+      "percentile": 99
+    },
+    {
+      "fid": 1237,
+      "fname": "nicholas",
+      "username": "nicholas",
+      "rank": 37,
+      "score": 0.007714099250733852,
+      "percentile": 99
+    },
+    {
+      "fid": 2210,
+      "fname": "kenny",
+      "username": "kenny",
+      "rank": 38,
+      "score": 0.007687775418162346,
+      "percentile": 99
+    },
+    {
+      "fid": 1317,
+      "fname": "0xdesigner.eth",
+      "username": "0xdesigner",
+      "rank": 39,
+      "score": 0.007677774410694838,
+      "percentile": 99
+    },
+    {
+      "fid": 1317,
+      "fname": "0xdesigner",
+      "username": "0xdesigner",
+      "rank": 39,
+      "score": 0.007677774410694838,
+      "percentile": 99
+    },
+    {
+      "fid": 2689,
+      "fname": "binji.eth",
+      "username": "binji.eth",
+      "rank": 40,
+      "score": 0.007570972200483084,
+      "percentile": 99
+    },
+    {
+      "fid": 2689,
+      "fname": "binji",
+      "username": "binji.eth",
+      "rank": 40,
+      "score": 0.007570972200483084,
+      "percentile": 99
+    },
+    {
+      "fid": 124,
+      "fname": "giu",
+      "username": "giu",
+      "rank": 41,
+      "score": 0.007530184928327799,
+      "percentile": 99
+    },
+    {
+      "fid": 124,
+      "fname": "giacaglia.eth",
+      "username": "giu",
+      "rank": 41,
+      "score": 0.007530184928327799,
+      "percentile": 99
+    },
+    {
+      "fid": 738,
+      "fname": "alexmasmej",
+      "username": "alexmasmej.eth",
+      "rank": 42,
+      "score": 0.007492373697459698,
+      "percentile": 99
+    },
+    {
+      "fid": 738,
+      "fname": "alexmasmej.eth",
+      "username": "alexmasmej.eth",
+      "rank": 42,
+      "score": 0.007492373697459698,
+      "percentile": 99
+    },
+    {
+      "fid": 4482,
+      "fname": "deployer",
+      "username": "deployer",
+      "rank": 43,
+      "score": 0.007447035983204842,
+      "percentile": 99
+    },
+    {
+      "fid": 2007,
+      "fname": "jacopo",
+      "username": "jacopo.eth",
+      "rank": 44,
+      "score": 0.007349916268140078,
+      "percentile": 99
+    },
+    {
+      "fid": 2007,
+      "fname": "jacopo.eth",
+      "username": "jacopo.eth",
+      "rank": 44,
+      "score": 0.007349916268140078,
+      "percentile": 99
+    },
+    {
+      "fid": 8447,
+      "fname": "eriks",
+      "username": "eriks",
+      "rank": 45,
+      "score": 0.0073433928191661835,
+      "percentile": 99
+    },
+    {
+      "fid": 8447,
+      "fname": "eriksmith.eth",
+      "username": "eriks",
+      "rank": 45,
+      "score": 0.0073433928191661835,
+      "percentile": 99
+    },
+    {
+      "fid": 7637,
+      "fname": "aaronrferguson.eth",
+      "username": "aaronrferguson.eth",
+      "rank": 46,
+      "score": 0.00733450660482049,
+      "percentile": 99
+    },
+    {
+      "fid": 7637,
+      "fname": "aaronrferguson",
+      "username": "aaronrferguson.eth",
+      "rank": 46,
+      "score": 0.00733450660482049,
+      "percentile": 99
+    },
+    {
+      "fid": 358,
+      "fname": "corbin.eth",
+      "username": "corbin.eth",
+      "rank": 47,
+      "score": 0.007299207616597414,
+      "percentile": 99
+    },
+    {
+      "fid": 358,
+      "fname": "corbpage",
+      "username": "corbin.eth",
+      "rank": 47,
+      "score": 0.007299207616597414,
+      "percentile": 99
+    },
+    {
+      "fid": 13833,
+      "fname": "kaloh",
+      "username": "kaloh",
+      "rank": 48,
+      "score": 0.007269459776580334,
+      "percentile": 99
+    },
+    {
+      "fid": 7620,
+      "fname": "cybershakti",
+      "username": "cybershakti",
+      "rank": 49,
+      "score": 0.007262345869094133,
+      "percentile": 99
+    },
+    {
+      "fid": 9595,
+      "fname": "survey",
+      "username": "survey",
+      "rank": 50,
+      "score": 0.0072504570707678795,
+      "percentile": 99
+    },
+    {
+      "fid": 18085,
+      "fname": "mleejr",
+      "username": "mleejr",
+      "rank": 51,
+      "score": 0.007237659301608801,
+      "percentile": 99
+    },
+    {
+      "fid": 10810,
+      "fname": "gami",
+      "username": "gami",
+      "rank": 52,
+      "score": 0.007223581429570913,
+      "percentile": 99
+    },
+    {
+      "fid": 10810,
+      "fname": "gami.eth",
+      "username": "gami",
+      "rank": 52,
+      "score": 0.007223581429570913,
+      "percentile": 99
+    },
+    {
+      "fid": 20919,
+      "fname": "rainbow",
+      "username": "rainbow",
+      "rank": 53,
+      "score": 0.007222507148981094,
+      "percentile": 99
+    },
+    {
+      "fid": 5431,
+      "fname": "esdotge.eth",
+      "username": "esdotge.eth",
+      "rank": 54,
+      "score": 0.007219346705824137,
+      "percentile": 99
+    },
+    {
+      "fid": 5431,
+      "fname": "esdotge",
+      "username": "esdotge.eth",
+      "rank": 54,
+      "score": 0.007219346705824137,
+      "percentile": 99
+    },
+    {
+      "fid": 13505,
+      "fname": "j-valeska",
+      "username": "j-valeska",
+      "rank": 55,
+      "score": 0.007195333018898964,
+      "percentile": 99
+    },
+    {
+      "fid": 2252,
+      "fname": "sui",
+      "username": "sui",
+      "rank": 56,
+      "score": 0.0071904887445271015,
+      "percentile": 99
+    },
+    {
+      "fid": 2417,
+      "fname": "robrecht.eth",
+      "username": "robrecht",
+      "rank": 57,
+      "score": 0.007187047973275185,
+      "percentile": 99
+    },
+    {
+      "fid": 2417,
+      "fname": "robrecht",
+      "username": "robrecht",
+      "rank": 57,
+      "score": 0.007187047973275185,
+      "percentile": 99
+    },
+    {
+      "fid": 10636,
+      "fname": "jam",
+      "username": "jam",
+      "rank": 58,
+      "score": 0.00718248076736927,
+      "percentile": 99
+    },
+    {
+      "fid": 4036,
+      "fname": "sassal",
+      "username": "sassal.eth",
+      "rank": 59,
+      "score": 0.007131250575184822,
+      "percentile": 99
+    },
+    {
+      "fid": 4036,
+      "fname": "sassal.eth",
+      "username": "sassal.eth",
+      "rank": 59,
+      "score": 0.007131250575184822,
+      "percentile": 99
+    },
+    {
+      "fid": 281289,
+      "fname": "tocd",
+      "username": "tocd",
+      "rank": 60,
+      "score": 0.007104312069714069,
+      "percentile": 99
+    },
+    {
+      "fid": 8046,
+      "fname": "rsa",
+      "username": "rsa.eth",
+      "rank": 61,
+      "score": 0.00708439014852047,
+      "percentile": 99
+    }
+  ]
+}
